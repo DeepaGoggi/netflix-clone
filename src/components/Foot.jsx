@@ -36,7 +36,7 @@ const Foot = () => {
 
 
       <p className="disclaimer">
-  Netflix Clone — Educational Project. This website is created for
+  Net.flix Clone — Educational Project. This website is created for
   educational purposes only and is not affiliated with or endorsed by Netflix.
 </p>
     </div>
