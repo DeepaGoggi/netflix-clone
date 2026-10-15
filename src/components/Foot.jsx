@@ -35,11 +35,10 @@ const Foot = () => {
       </div>
 
 
-      <p className="region">Netflix India</p>
       <p className="disclaimer">
-        This page is protected by Google reCAPTCHA to ensure you're not a bot.{" "}
-        <a href="#">Learn more</a>.
-      </p>
+  Netflix Clone — Educational Project. This website is created for
+  educational purposes only and is not affiliated with or endorsed by Netflix.
+</p>
     </div>
   );
 };
